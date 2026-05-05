@@ -1,0 +1,13 @@
+{
+    "permissions":{
+            "allow": [
+                "Bash(*)",
+                "Read(/workspaces/**)",
+                "Write(/workspaces/**)"
+            ],
+            "deny": [
+                "Read(/**)",
+                "Write(/**)"
+            ]
+        }
+}

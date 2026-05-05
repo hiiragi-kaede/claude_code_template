@@ -1,0 +1,22 @@
+# 認証・セキュリティ
+.credentials.json
+todos.json
+
+# セッション・履歴（大容量・個人情報含む）
+projects/
+sessions/
+file-history/
+history.jsonl
+backups/
+cache/
+
+# キャッシュ・ログ・一時ファイル
+statsig/
+logs/
+*.log
+debug/
+ide/
+
+# マシン固有の状態
+.claude.json
+usage.json
