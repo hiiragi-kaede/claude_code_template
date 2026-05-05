@@ -1,0 +1,2 @@
+# claude_code_template
+Claude Code製のプロジェクトのテンプレ的なレポジトリ
